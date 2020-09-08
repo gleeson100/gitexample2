@@ -1,1 +1,2 @@
-Test file.  Nothing here.  Master branch. 
+Test file.  Nothing here.  Master branch.
+This is the modified master test file.
