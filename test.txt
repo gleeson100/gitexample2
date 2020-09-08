@@ -1,3 +1,4 @@
 Test file.  Nothing here.  Master branch.
 This is the modified master test file.
-modified again as part of featureX.
+Set back to the original.  Removed the featureX change.
+But still not in sync with the changes made from featureY.
